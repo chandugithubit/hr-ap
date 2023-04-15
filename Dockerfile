@@ -1,4 +1,5 @@
 FROM openjdk:17-alpine
+RUN apk add open jdk17-jre
 WORKDIR /opt/
 ADD https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.73/bin/apache-tomcat-9.0.73.tar.gz .
 RUN tar xf apache-tomcat-9.0.73.tar.gz
