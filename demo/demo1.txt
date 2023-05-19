@@ -3,3 +3,5 @@ git
 jenkins
 yaml
 ansible
+java
+kubernetes
