@@ -3,5 +3,8 @@ git
 jenkins
 yaml
 ansible
+<<<<<<< HEAD
 java
 kubernetes
+=======
+>>>>>>> 1dcee74 (Update demo1.txt)
